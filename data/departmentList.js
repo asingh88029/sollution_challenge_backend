@@ -1,0 +1,20 @@
+const Department = [
+  "medicine",
+  "surgery",
+  "gynaecology",
+  "obstetrics",
+  "paediatrics",
+  "eye",
+  "ENT",
+  "dental",
+  "orthopaedics",
+  "neurology",
+  "cardiology",
+  "psychiatry",
+  "skin",
+  "V.D.",
+  "plastic surgery",
+  "nuclear medicine",
+  "infectious disease",
+];
+module.exports = Department

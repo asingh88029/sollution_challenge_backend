@@ -1,0 +1,26 @@
+const Speciality = [
+  "general",
+  "allergists",
+  "dermatologists",
+  "infectious",
+  "ophthalmologist",
+  "obstetrician",
+  "cardiologist",
+  "endocrinologists",
+  "gastroenterologists",
+  "nephrologists",
+  "urologist",
+  "pulmonologist",
+  "otolaryngologists",
+  "neurologists",
+  "psychiatrists",
+  "oncologists",
+  "radiologists",
+  "rheumatologists",
+  "general surgeons",
+  "orthopedic surgeons",
+  "cardiac surgeons",
+  "anesthesiologists",
+];
+
+module.exports = Speciality

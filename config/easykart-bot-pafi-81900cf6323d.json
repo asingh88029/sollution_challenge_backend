@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "easykart-bot-pafi",
+  "private_key_id": "81900cf6323dab52eed2fe8b09f7d7b86100a4b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrl6GxL6k54IEb\n1BURlYouwykRtQDGXRtBgXyx94gkbaQUQKANqYvCXVLHCPLBDW0agyTL5OvhUorO\nNilBbHe2dDAeU9/wOH0EM5ZwE5F/1+SMyrfIL0FQQ6rjGz9uIHFZUO0pu7OOl1w9\n5lTw9iIVLG+7ErYa0YeUa8OUgvuM18uR1WlhC36SXnRyYLytLo7miZLG9FFj+BfN\nt0LaiDjCfjCLJYK1VFIRc0RZLAv/cqK2bPknWdaRYg3EymOH0BaPNbLn7LQ/Jitu\n1OkKX/DNnTOeSs74zcjJLqlNx2pzhJXu3JdIcBQb3wrNi+TqhVlfCGHB9OM+3dEl\nSIqSUflfAgMBAAECggEAL9qQ0F5PXoG63+zsl0PSDqqEuJh3B9sNb95RzTwQLsCZ\nAsDnIghHnsPyAun+8VHyPHOYfnhwRB2F8m5uYP2EAVEz3jFcAZ1vWA2fBdCfQj0O\nUylxyZVMLLtCXCXMMcVAdz03du0O7VRO+EBVLgImjSsgWdalDKOkoQLQv4kr6CIN\niWD7VgoOseZ3lWb5Xb/Bh2IRKYPcF9zl3ZjK/qYhfQGm+5rfW09uIQzDGYCcBNSK\n9HOpEGJABO6nVCha1HjBBbFyOHISQkHr7Ss3XifeZfS40uh5IO/UUD9+oaxRn8t7\nEDClVvgLkcGe0lzH92WnAQ1jmoaF0EZSQZO/O/V9sQKBgQDV7bDWQh/LD4T+FKnn\nwToI8ydo3Pk+KvvvboiQl9BZBK/wGMg+HfS0EmGCHs0VuW/E/+QLMKjvW1QTZ/6w\n2gKT6DQFRd0Fx9+X6VKbdmk7XaMS7GTI7vicfbUqX8slgBs0vaGA3AaLyylFz5rv\n+D+OUlqcajBLoWgpbYgwDefFxwKBgQDNVoK3sSGBK/a6wzLgygsVh/xlyMxzzXEe\nA5HMnXAPUfdgIFC0WRa7+lnD0jGAx4JQ2RSquyFX1hXfxDYe8F5KWnCDqBR9bIew\n0nzY0Ck8sDXB2M4OwkJZ/11xL82xZyW3JFIbbeQ8x7GvelqlhqoozOMLBvnFVfCK\n0sxYj3hPqQKBgF2Obpi1IFxYtCu987Qj3/KMDD8i7GmQuM80QsshaX+UujDBVck8\npoidxUD3oW8Pwt6fniZ6qFbNVQ6Lm2nSXfA7S4zGyes+Rv2Tj4nnlgvdXnTnJwhs\n4hLmMvWOITSMOtms2NWW49H9Dla2fSbXJUxjnbbsBaT9uKTtfvKtEiB/AoGAFvW1\naBTGSktAK2HoLnppAt9RuY/aTJiMLW74vohcH1pq7rSuUXwkrqAvqVW3c07bo26i\ngPSrpcaqa3rlElCOOoIiUpZYtC2OfpcKnrOn6MFLQYGciMnv4WBMcnuF5HBEJ1ZI\nWAjRnHo3xAdKW3fTTvyZ5oHBK++QFfW8I6rnKQECgYEAtXi0sHn2CBRZy0P00Ia7\ndMXD54TJMF9hkRfyHR6aEqORZ5LaFqVskjRy5EwOcs/lrapGeEwop4HGXpPhBomQ\nbIGqW2+0wdbltsHHCA79DY653flY9fGaB0tmekYZ9GBm0MXcvg5ahTctiLhCj8eC\nxpxqE5chMU6jLpr/MNpbJh4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "easykart-bot@easykart-bot-pafi.iam.gserviceaccount.com",
+  "client_id": "108862847323551372263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/easykart-bot%40easykart-bot-pafi.iam.gserviceaccount.com"
+}

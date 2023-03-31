@@ -1,0 +1,23 @@
+login / register fix
+// register -> mobileNumber, fullname
+// login -> mobile -> otp
+// loginUsingGoogle
+
+Hospital - Filter Using Hospital Type
+
+Hospital Admin - Add doctor , remove doctor
+// department
+
+doctor - login - register // mobile , otp login
+// Specility
+// View patient details
+// Patient history
+
+Appointment - Hospital - slot - Appointed Time
+// hospital
+// Department
+// Fever
+
+// Video call appointment
+
+// Payment
